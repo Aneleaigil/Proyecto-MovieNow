@@ -29,13 +29,11 @@ La problemática existente o que se determinó en base a la observación, entrev
 * 2 El segundo también mucha fila para comprar comida 
 * 3 Y el tercero es no poder usar todas las promociones del cine en su página web o app, ya que se exige sean presencial. Lo cual a su vez genera o aumenta la fila para comprar entradas de cine
 
-<img src="images/filaEntrada.jpg">
-<img src="images/filaConfiteria.jpg">
+<img src="images/filas.JPG">
 
 ## Diseñado Wireframe
 
-<img src="images/wireframe.JPG">
-<img src="images/wireframe2.JPG">
+<img src="images/wireframe.JPG"><img src="images/wireframe2.JPG">
 
 
 
