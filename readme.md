@@ -33,7 +33,8 @@ La problemática existente o que se determinó en base a la observación, entrev
 
 ## Diseñado Wireframe
 
-<img src="images/wireframe.JPG"><img src="images/wireframe2.JPG">
+<img src="images/wireframe.JPG"><img src="images/wireframe2.JPG"><img src="images/wireframe3.JPG">
 
+[![wireframe](https://www.useloom.com/share/b26222ef9e764a15abb2c7f15f49b381)
 
 
