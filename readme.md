@@ -20,7 +20,7 @@ Una app que te permite comprar  entradas,  elegir entre los diferentes cines aso
 <img src="images/cine.JPG">
 <img src="images/comer.JPG">
 <img src="images/encuesta.JPG">
-<img src="images/movil">
+<img src="images/movil.JPG">
 
 ## Definiendo Problematica
 
@@ -35,6 +35,6 @@ La problemática existente o que se determinó en base a la observación, entrev
 
 <img src="images/wireframe.JPG"><img src="images/wireframe2.JPG"><img src="images/wireframe3.JPG">
 
-[![wireframe](https://www.useloom.com/share/b26222ef9e764a15abb2c7f15f49b381)
+
 
 
