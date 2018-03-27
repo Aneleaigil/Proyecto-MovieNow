@@ -1,5 +1,11 @@
 # App CineNow
 
+Proyecto de Experiencia de Usuario 
+Elaborado para Laboratoria (2018) 
+
+![movie](https://user-images.githubusercontent.com/32284582/37941468-ad05aee4-3144-11e8-81b3-b2d47ff1754c.png)
+
+https://marvelapp.com/84755ee
 
 Una app que te permite comprar  entradas,  elegir entre los diferentes cines asociados y aplicar los descuentos que estos ofrecen de forma online, así como comprar la comida por la misma vía y ahorrarse de hacer fila, y gastar más dinero.
 
