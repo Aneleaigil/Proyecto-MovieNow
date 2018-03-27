@@ -1,7 +1,7 @@
 # App CineNow
 
 # Proyecto UX Design, elaborado para Laboratoria 2018
-
+# app para facilitar la adquisicion de entradas al cine y confiteria con descuentos 
 
 ![movie](https://user-images.githubusercontent.com/32284582/37941468-ad05aee4-3144-11e8-81b3-b2d47ff1754c.png)
 
