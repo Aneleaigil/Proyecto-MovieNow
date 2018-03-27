@@ -7,7 +7,9 @@ Proyecto UX Design, elaborado para Laboratoria 2018
 
 https://marvelapp.com/84755ee
 
-Proyecto de Experiencia de Usuario Elaborado para Laboratoria (2018) Tecnologia Usada: Marvel app (prototipado) Tecnicas de Investigación: User Research, Entrevistas, y encuestas, arquetipos o user person, viaje del usuario o Journey map.
+# Tecnologia Usada: Marvel app (prototipado) 
+
+Tecnicas de Investigación: User Research, Entrevistas, y encuestas, arquetipos o user person, viaje del usuario o Journey map.
 
 ## Movie Now (app)
 
