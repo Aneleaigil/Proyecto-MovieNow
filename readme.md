@@ -7,7 +7,7 @@ Tecnicas de Investigación: User Research, Entrevistas, y encuestas, arquetipos 
 
 ![movie](https://user-images.githubusercontent.com/32284582/37941468-ad05aee4-3144-11e8-81b3-b2d47ff1754c.png)
 
-![movie](https://marvelapp.com/84755ee)
+https://marvelapp.com/84755ee
 
 
 
@@ -45,7 +45,6 @@ La problemática existente o que se determinó en base a la observación, entrev
 
 <img src="images/wireframe.JPG"><img src="images/wireframe2.JPG"><img src="images/wireframe3.JPG">
 
-![movie](https://www.useloom.com/share/b26222ef9e764a15abb2c7f15f49b381)
 
 
 
