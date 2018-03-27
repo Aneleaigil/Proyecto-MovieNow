@@ -2,10 +2,14 @@
 
 Proyecto de Experiencia de Usuario 
 Elaborado para Laboratoria (2018) 
+Tecnologia Usada: Marvel app (prototipado)
+Tecnicas de Investigación: User Research, Entrevistas, y encuestas, arquetipos o user person, viaje del usuario o Journey map. 
 
 ![movie](https://user-images.githubusercontent.com/32284582/37941468-ad05aee4-3144-11e8-81b3-b2d47ff1754c.png)
 
-https://marvelapp.com/84755ee
+![movie](https://marvelapp.com/84755ee)
+
+
 
 Una app que te permite comprar  entradas,  elegir entre los diferentes cines asociados y aplicar los descuentos que estos ofrecen de forma online, así como comprar la comida por la misma vía y ahorrarse de hacer fila, y gastar más dinero.
 
@@ -18,7 +22,7 @@ Una app que te permite comprar  entradas,  elegir entre los diferentes cines aso
 #### Arquetipos de Usuarios
 <img src="images/user1.JPG"><img src="images/user2.JPG"><img src="images/user3.JPG">
 
-#### Jurney-Map Usuarios
+#### Journey Map Usuarios
 <img src="images/flujoPresencial.JPG">
 <img src="images/flujoOnline.JPG">
 
@@ -30,7 +34,7 @@ Una app que te permite comprar  entradas,  elegir entre los diferentes cines aso
 
 ## Definiendo Problematica
 
-La problemática existente o que se determinó en base a la observación, entrevistas y encuestas que se realizaron para este estudio se determinaron o salieron 3 puntos de dolor o problemas que presentan nuestros usuarios:
+La problemática existente o que se determinó en base a la observación, entrevistas y encuestas que se realizarón para este estudio se hallaron  3 puntos de dolor o problemas que presentan los usuarios:
 * 1 El primero de ellos, largas filas para comprar entradas de manera presencial 
 * 2 El segundo también mucha fila para comprar comida 
 * 3 Y el tercero es no poder usar todas las promociones del cine en su página web o app, ya que se exige sean presencial. Lo cual a su vez genera o aumenta la fila para comprar entradas de cine
@@ -40,6 +44,8 @@ La problemática existente o que se determinó en base a la observación, entrev
 ## Diseñado Wireframe
 
 <img src="images/wireframe.JPG"><img src="images/wireframe2.JPG"><img src="images/wireframe3.JPG">
+
+![movie](https://www.useloom.com/share/b26222ef9e764a15abb2c7f15f49b381)
 
 
 
