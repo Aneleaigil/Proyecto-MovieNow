@@ -1,16 +1,17 @@
-# App CineNow
+# App MovieNow
 
-# Descripcion: Proyecto UX Design, elaborado para Laboratoria 2018, app para facilitar la adquisicion de entradas al cine y confiteria con descuentos 
-
+#### Descripcion: Proyecto UX Design.App que facilita la adquisicion de entradas al cine y confiteria con descuentos. hecho para Laboratoria 2018.
+#### Desarrollado para [Laboratoria](http://www.laboratoria.la/)
+#### Tecnología usada: Marvel app, Tecnicas de ideación, arquetipos de persona, journey map, research user, entrevistas, encuestas.
 ![movie](https://user-images.githubusercontent.com/32284582/37941468-ad05aee4-3144-11e8-81b3-b2d47ff1754c.png)
 
 https://marvelapp.com/84755ee
 
-# Tecnologia Usada: Marvel app (prototipado) 
+#### Tecnologia Usada: Marvel app (prototipado) 
 
 Tecnicas de Investigación: User Research, Entrevistas, y encuestas, arquetipos o user person, viaje del usuario o Journey map.
 
-## Movie Now (app)
+##### Movie Now (app)
 
 Una app que te permite comprar  entradas,  elegir entre los diferentes cines asociados y aplicar los descuentos que estos ofrecen de forma online, así como comprar la comida por la misma vía y ahorrarse de hacer fila, y gastar más dinero.
 
