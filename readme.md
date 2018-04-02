@@ -19,7 +19,7 @@ Una app que te permite comprar  entradas,  elegir entre los diferentes cines aso
 
 
 
-#### Proceso de Investigacion y Analisis de los datos
+#### Proceso de Investigación y Análisis de los datos
 
 #### Arquetipos de Usuarios
 <img src="images/user1.JPG"><img src="images/user2.JPG"><img src="images/user3.JPG">
@@ -34,7 +34,7 @@ Una app que te permite comprar  entradas,  elegir entre los diferentes cines aso
 <img src="images/encuesta.JPG">
 <img src="images/movil.JPG">
 
-## Definiendo Problematica
+## Definiendo Problemática
 
 La problemática existente o que se determinó en base a la observación, entrevistas y encuestas que se realizarón para este estudio se hallaron  3 puntos de dolor o problemas que presentan los usuarios:
 * 1 El primero de ellos, largas filas para comprar entradas de manera presencial 
@@ -43,10 +43,9 @@ La problemática existente o que se determinó en base a la observación, entrev
 
 <img src="images/filas.JPG">
 
-## Diseñado Wireframe
+## Diseño del Wireframe
 
-<img src="images/wireframe.JPG"><img src="images/wireframe2.JPG"><img src="images/wireframe3.JPG">
-
+![prototipo](https://user-images.githubusercontent.com/32284582/38213249-f32d0848-3696-11e8-8b6a-8fe992761b10.jpg)
 
 
 
