@@ -3,7 +3,7 @@
 #### Descripcion: Proyecto UX Design.App que facilita la adquisicion de entradas al cine y confiteria con descuentos. hecho para Laboratoria 2018.
 #### Desarrollado para [Laboratoria](http://www.laboratoria.la/)
 #### Tecnología usada: Marvel app, Tecnicas de ideación, arquetipos de persona, journey map, research user, entrevistas, encuestas.
-![movie](https://user-images.githubusercontent.com/32284582/37941468-ad05aee4-3144-11e8-81b3-b2d47ff1754c.png)
+![movienow](https://user-images.githubusercontent.com/32284582/38210478-f447fc5a-368d-11e8-9f28-429d824360a3.jpg)
 
 https://marvelapp.com/84755ee
 
