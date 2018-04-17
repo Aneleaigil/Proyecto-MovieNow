@@ -46,6 +46,7 @@ La problemática existente o que se determinó en base a la observación, entrev
 ## Diseño del Wireframe
 
 ![prototipo](https://user-images.githubusercontent.com/32284582/38213249-f32d0848-3696-11e8-8b6a-8fe992761b10.jpg)
+https://marvelapp.com/84755ee
 
 
 
