@@ -5,7 +5,7 @@
 #### Tecnología usada: Marvel app, Tecnicas de ideación, arquetipos de persona, journey map, research user, entrevistas, encuestas.
 ![movienow](https://user-images.githubusercontent.com/32284582/38210478-f447fc5a-368d-11e8-9f28-429d824360a3.jpg)
 
-https://marvelapp.com/84755ee
+[ver prototipo aqui](https://marvelapp.com/84755ee)
 
 #### Tecnologia Usada: Marvel app (prototipado) 
 
@@ -46,7 +46,7 @@ La problemática existente o que se determinó en base a la observación, entrev
 ## Diseño del Wireframe
 
 ![prototipo](https://user-images.githubusercontent.com/32284582/38213249-f32d0848-3696-11e8-8b6a-8fe992761b10.jpg)
-https://marvelapp.com/84755ee
+[ver Prototipo aqui](https://marvelapp.com/84755ee)
 
 
 
